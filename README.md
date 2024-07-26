@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# KrushiDhan
 
-First, run the development server:
+We are the Coding Gurus, and our team is led by Yash Nimse. We are excited to present our innovative solution, KrushiDhan, as part of Track 2: Turning Agri-waste into Profitable Business Opportunities.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Brief Introduction.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+KrushiDhan is a platform designed to convert agricultural waste into valuable resources. Farmers can set a fixed price per kilogram or ton for their waste, which industries can purchase through an e-commerce model. This platform ensures efficient waste management and resource utilization, providing new income streams for farmers and supporting industries in obtaining raw materials sustainably.
+## Differentiation from Existing Ideas
 
-## Learn More
+KrushiDhan stands out with its:
 
-To learn more about Next.js, take a look at the following resources:
+Fixed-Price E-Commerce Model: Ensures transparency and predictability in transactions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Multi-Lingual Support: Available in Marathi, Hindi, and English, making it accessible to a broader range of farmers.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+AI-Driven Features: Provides intelligent support and detailed analytics.
 
-## Deploy on Vercel
+By-Product Sales: Ensures no resource goes to waste.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Educational Resources: Includes comprehensive materials to help farmers learn best practices.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Waste Type Recommendations: Suggests suitable waste types for industries.
+
+Analytics on Waste Sold: Offers insights on waste sales, helping farmers make informed decisions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Technologies to be Used in the Solution
+
+Figma: For designing a user-friendly interface.
+
+NextJS: For building a fast and responsive frontend.
+
+NodeJS: For a robust and scalable backend.
+
+AuthJS: For secure user authentication.
+
+GraphQL: For efficient data querying and manipulation.
+
+Algolia: For fast and accurate product searches.
+
+MongoDB: For a flexible and scalable database solution.
+
+RazorPay: For integrating various payment methods.
+
+Git & GitHub: For version control and collaborative development.
+
+Google Analytics: For tracking user behavior and improving the platform.
+
+
+
